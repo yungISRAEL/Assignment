@@ -1,0 +1,43 @@
+h1 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+
+body {
+    background-color: honeydew;
+}
+
+h3 {
+    font-size: 1rem;
+    text-align: end;
+}
+
+.firstbutton {
+    font-size: 2rem;
+    background-color: yellow;
+}
+
+.secondbutton {
+    font-size: 1rem;
+    text-align: end;
+}
+
+.paragraph {
+    text-align: center;
+}
+
+div {
+  width: 200px;
+  border: 13px solid blue;
+  padding: 5px;
+  margin: 2px;
+}
+
+h1 {
+    width: px;
+    border: 50px solid yellow;
+    padding: 50px;
+    margin: 2px;
+}
